@@ -26,8 +26,8 @@ Robbie-Jr-Bot is a simple command-line chatbot powered by OpenAI's GPT-3.5-turbo
 1. **Clone or Download the Repository**
 
    ```
-   git clone https://github.com/yourusername/robbie-jr-bot.git
-   cd robbie-jr-bot
+   git clone https://github.com/k-dot-creator/CHAT-BOT-AI.git
+   cd CHAT-BOT-AI
    ```
 
 2. **Install Dependencies**
