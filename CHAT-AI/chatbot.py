@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"
+API_KEY = "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"
 
 def ask_gpt(messages):
     url = "https://api.openai.com/v1/chat/completions"
